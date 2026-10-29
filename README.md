@@ -38,7 +38,7 @@ Get your tasks done across wallets, swaps, faucets, and check-ins — hands-free
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/cryptodai3/XOS-Automation-BOT.git
+git clone https://github.com/DalleDai/XOS-Automation-BOT.git
 cd XOS-Automation-BOT
 ````
 
